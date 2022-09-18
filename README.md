@@ -1,1 +1,1 @@
-# Industrail-Training
+# Industrial-Training
